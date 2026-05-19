@@ -1,6 +1,9 @@
 # Changelog
 ## [Unreleased]
 
+### Fixed
+- **PyPI file hash key** — renamed `digests` to `hashes` to support `PEP 691` specification (#383)
+
 ## [0.9.0] - 2026-05-16
 
 ### Added
